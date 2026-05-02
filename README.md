@@ -30,5 +30,3 @@ Open the Power BI file to see the dashboard
 
 ⭐ Purpose
 This project helps understand customer behavior and improve business decisions.
-
-If you want, I can make it slightly more impressive for resume/GitHub without making it
